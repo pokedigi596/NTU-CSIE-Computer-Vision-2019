@@ -21,7 +21,13 @@ HW03
   <li>image after applying histogram equalization to 2. and its histogram</li>
 </ol>
 HW04
-
+<ol>
+  <li>Dilation</li>
+  <li>Erosion</li>
+  <li>Opening</li>
+  <li>Closing</li>
+  <li>Hit-and-miss transform</li>
+</ol>
 HW05
 
 HW06
