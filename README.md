@@ -1,11 +1,12 @@
 # NTU-CSIE-Computer-Vision-2019
 HW01
-<ol>(a) upside-down lena.bmp  
-    (b) right-side-left lena.bmp  
-    (c) diagonally mirrored lena.bmp  
-    (d) rotate lena.bmp 45 degrees clockwise  
-    (e) shrink lena.bmp in half  
-    (f) binarize lena.bmp at 128 to get a binary image  
+<ol>
+    <li>(a) upside-down lena.bmp</li>  
+    <li>(b) right-side-left lena.bmp</li>  
+    <li>(c) diagonally mirrored lena.bmp</li>  
+    <li>(d) rotate lena.bmp 45 degrees clockwise</li>  
+    <li>(e) shrink lena.bmp in half</li>  
+    <li>(f) binarize lena.bmp at 128 to get a binary image</li>  
 </ol>
 HW02
 
