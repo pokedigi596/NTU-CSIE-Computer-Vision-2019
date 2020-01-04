@@ -8,7 +8,7 @@ HW01
   <li>shrink lena.bmp in half</li>
   <li>binarize lena.bmp at 128 to get a binary image</li>
 </ol>
-HW02<br/>
+HW02<br/><br/>
 <ol>
   <li>a binary image (threshold at 128)</li>
   <li>a histogram</li>
