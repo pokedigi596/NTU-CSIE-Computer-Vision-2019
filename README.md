@@ -1,7 +1,6 @@
 # NTU-CSIE-Computer-Vision-2019
 HW01
-<ol>
-    (a) upside-down lena.bmp  
+<ol>(a) upside-down lena.bmp  
     (b) right-side-left lena.bmp  
     (c) diagonally mirrored lena.bmp  
     (d) rotate lena.bmp 45 degrees clockwise  
