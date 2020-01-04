@@ -20,7 +20,7 @@ HW03
   <li>image with intensity divided by 3 and its histogram</li>
   <li>image after applying histogram equalization to 2. and its histogram</li>
 </ol>
-HW04
+HW04 
 <ol>
   <li>Dilation</li>
   <li>Erosion</li>
@@ -28,7 +28,7 @@ HW04
   <li>Closing</li>
   <li>Hit-and-miss transform</li>
 </ol>
-HW05
+HW05 Write programs which do gray-scale morphology on a gray-scale image(lena.bmp)
 
 HW06
 
