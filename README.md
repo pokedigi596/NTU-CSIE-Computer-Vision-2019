@@ -10,9 +10,9 @@ HW01
 </ol>
 HW02
 <ol>
-  <li>a binary image (threshold at 128)</li>  
-  <li>a histogram</li>  
-  <li>connected components(regions with + at centroid, bounding box)</li>  
+  <li>a binary image (threshold at 128)</li>
+  <li>a histogram</li>
+  <li>connected components(regions with + at centroid, bounding box)</li>
 </ol>
 HW03
 
