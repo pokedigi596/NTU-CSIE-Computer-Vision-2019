@@ -15,7 +15,11 @@ HW02
   <li>connected components(regions with + at centroid, bounding box)</li>
 </ol>
 HW03
-
+<ol>
+  <li>original image and its histogram</li>
+  <li>image with intensity divided by 3 and its histogram</li>
+  <li>image after applying histogram equalization to 2. and its histogram</li>
+</ol>
 HW04
 
 HW05
