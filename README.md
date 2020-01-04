@@ -9,21 +9,21 @@ HW01
   <li>binarize lena.bmp at 128 to get a binary image</li>
 </ol>
 HW02
-<br/>
+<br/><br/>
 <ol>
   <li>a binary image (threshold at 128)</li>
   <li>a histogram</li>
   <li>connected components(regions with + at centroid, bounding box)</li>
 </ol>
 HW03
-<br/>
+<br/><br/>
 <ol>
   <li>original image and its histogram</li>
   <li>image with intensity divided by 3 and its histogram</li>
   <li>image after applying histogram equalization to 2. and its histogram</li>
 </ol>
 HW04 (binary image)
-<br/>
+<br/><br/>
 <ol>
   <li>Dilation</li>
   <li>Erosion</li>
@@ -32,7 +32,7 @@ HW04 (binary image)
   <li>Hit-and-miss transform</li>
 </ol>
 HW05 (gray-scale image)
-<br/>
+<br/><br/>
 <ol>
   <li>Dilation</li>
   <li>Erosion</li>
@@ -40,7 +40,7 @@ HW05 (gray-scale image)
   <li>Closing</li>
 </ol>
 HW06
-<br/>
+<br/><br/>
 <ol>
   <li>Downsampling Lena from 512x512 to 64x64:<br/>
   Binarize the benchmark image lena as in HW02, then using 8x8 blocks as a unit, take the topmost-left pixel as the downsampled data.</li>
@@ -48,14 +48,14 @@ HW06
   <li>Result of this assignment is a 64x64 matrix.</li>
 </ol>
 HW07
-<br/>
+<br/><br/>
 <ol>
   <li>Downsampling Lena from 512x512 to 64x64:<br/>
   Binarize the benchmark image lena as in HW02, then using 8x8 blocks as a unit, take the topmost-left pixel as the downsampled data.</li>
   <li>You have to use 4-connected neighborhood detection.</li>
 </ol>
 HW08
-<br/>
+<br/><br/>
 <ol>
   <li>Generate noisy images with gaussian noise(amplitude of 10 and 30)</li>
   <li>Generate noisy images with salt-and-pepper noise( probability 0.1 and 0.05)</li>
