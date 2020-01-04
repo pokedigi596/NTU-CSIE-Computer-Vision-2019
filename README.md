@@ -39,9 +39,8 @@ HW06
 <ol>
   <li>Downsampling Lena from 512x512 to 64x64:<br/>
   Binarize the benchmark image lena as in HW2, then using 8x8 blocks as a unit, take the topmost-left pixel as the downsampled data.</li>
-  <li>Erosion</li>
-  <li>Opening</li>
-  <li>Closing</li>
+  <li>Count the Yokoi connectivity number on a downsampled lena using 4-connected.</li>
+  <li>Result of this assignment is a 64x64 matrix.</li>
 </ol>
 HW07
 
