@@ -9,7 +9,6 @@ HW01
   <li>binarize lena.bmp at 128 to get a binary image</li>
 </ol>
 HW02
-    
 <ol>
   <li>a binary image (threshold at 128)</li>
   <li>a histogram</li>
@@ -37,7 +36,13 @@ HW05 (gray-scale image)
   <li>Closing</li>
 </ol>
 HW06
-
+<ol>
+  <li>Downsampling Lena from 512x512 to 64x64:
+  Binarize the benchmark image lena as in HW2, then using 8x8 blocks as a unit, take the topmost-left pixel as the downsampled data.</li>
+  <li>Erosion</li>
+  <li>Opening</li>
+  <li>Closing</li>
+</ol>
 HW07
 
 HW08
