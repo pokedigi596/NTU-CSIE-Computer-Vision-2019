@@ -37,7 +37,7 @@ HW05 (gray-scale image)
 </ol>
 HW06
 <ol>
-  <li>Downsampling Lena from 512x512 to 64x64:
+  <li>Downsampling Lena from 512x512 to 64x64:  
   Binarize the benchmark image lena as in HW2, then using 8x8 blocks as a unit, take the topmost-left pixel as the downsampled data.</li>
   <li>Erosion</li>
   <li>Opening</li>
