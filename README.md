@@ -12,15 +12,15 @@ HW02
 <br/><br/>
 <ol>
   <li>a binary image (threshold at 128)</li>
-  <li>a histogram</li>
+  <li>a histogram(histo.m)</li>
   <li>connected components(regions with + at centroid, bounding box)</li>
 </ol>
 HW03
 <br/><br/>
 <ol>
-  <li>original image and its histogram</li>
-  <li>image with intensity divided by 3 and its histogram</li>
-  <li>image after applying histogram equalization to 2. and its histogram</li>
+  <li>original image and its histogram(histo.m)</li>
+  <li>image with intensity divided by 3 and its histogram(histo.m)</li>
+  <li>image after applying histogram equalization to 2. and its histogram(histo.m)</li>
 </ol>
 HW04 (binary image)
 <br/><br/>
